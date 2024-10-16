@@ -12,6 +12,7 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
+   * Add a style guide to the programming pls this is documentation to be used internally 
 
 Contents
 --------
